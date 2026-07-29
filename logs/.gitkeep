@@ -1,0 +1,1 @@
+This folder stores mail.log (simulated email output when MAIL_ENABLED is false or SMTP fails).
